@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "사탕",
+      "desc": "사탕을 먹으면 능률이 쑥쑥!",
+      "cost": 200000,
+      "img": "/images/candy.png",
+      "plus": 20000
+    },
+    {
+      "name": "탈취제",
+      "desc": "반 친구들의 냄새를 없애면 공부가 더 잘 된다고 한다.",
+      "cost": 1500000,
+      "img": "/images/cleaner.png",
+      "plus": 50000
+    },
+    {
+      "name": "반티",
+      "desc": "왠지 모르게 반 친구들간의 단합력을 올리는 옷이다.",
+      "cost": 3000000,
+      "img": "/images/classtea.png",
+      "plus": 100000
+    },
+    {
+      "name": "황석준",
+      "desc": "김승원의 최애 아이템으로, 같이 붙어다니면 좋다고 한다.",
+      "cost": 10000000,
+      "img": "/images/suk.png",
+      "plus": 200000
+    },
+    {
+      "name": "김민서",
+      "desc": "현재 2학년 4반의 부회장으로 군림중인 소드마스터다.",
+      "cost": 30000000,
+      "img": "/images/minseo.png",
+      "plus": 500000
+    }
+  ]
+}
